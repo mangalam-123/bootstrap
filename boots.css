@@ -1,0 +1,33 @@
+.jumbotron{
+    background-image: url(pic1.jpg); 
+    text-align: center;
+    margin-top: 55px;
+}
+#email{
+    width: 300px;
+
+}
+.input-group-prepend{
+    margin-left:530px;
+}
+#appSummary{
+    text-align: center;
+    display: inline;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+#footer{
+    text-align: center;
+    display: inline;
+    
+}
+#footer1{
+    background-color: aqua;
+    margin-top: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+body{
+     position: relative;
+}
